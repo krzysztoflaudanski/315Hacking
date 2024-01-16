@@ -1,4 +1,4 @@
-const Photo = require('./models/photo.model');
+const Photo = require('./models/Photo.model');
 
 const loadTestData = async () => {
 

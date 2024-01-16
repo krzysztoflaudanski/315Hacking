@@ -1,4 +1,4 @@
-const Photo = require('../models/photo.model');
+const Photo = require('../models/Photo.model');
 const Voter = require('../models/Voter.model')
 
 /****** SUBMIT PHOTO ********/
